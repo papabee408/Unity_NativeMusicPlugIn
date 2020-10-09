@@ -1,0 +1,2 @@
+# musicplayer_plugin
+ UnityAndroidNativeMediaPlayer
