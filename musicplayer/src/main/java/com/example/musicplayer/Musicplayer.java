@@ -1,6 +1,7 @@
 package com.example.musicplayer;
 
 import android.media.MediaPlayer;
+import android.widget.Toast;
 
 public class Musicplayer {
 
@@ -78,4 +79,7 @@ public class Musicplayer {
             return mediaPlayer.isPlaying();
         }
     }
+
+
+
 }
